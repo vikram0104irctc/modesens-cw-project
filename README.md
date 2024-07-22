@@ -7,89 +7,9 @@ The ModeSens website clone aims to replicate the key functionalities and user ex
 # Project Type
 - Frontend | Backend
 
-# Directory Structure
-- Freedom-Frameworks-025-/
-      └── Modesons/
-          ├── index.html         
-          ├── style.css
-          ├── index.js        
-          ├── slider.css    
-          ├── images/
-          │   ├── carousal1/
-          │   │        └── images related to carousal1
-          │   │
-          │   ├── carousel2/
-          │   │          └── images related to carousal2
-          │   └── logo / 
-          │               └── all logos
-          │       
-          └──pages/
-              ├── AdminalPages/ 
-              │      ├──  addproducts/   
-              │      │         ├──index.html
-              │      │         ├──styles.css
-              │      │         └──script.js   
-              │      │
-              │      ├──  dashboard/    
-              │      │         ├──index.html
-              │      │         ├──styles.css
-              │      │         └──script.js
-              │      │
-              │      ├──  manageproducts/     
-              │      │         ├──index.html
-              │      │         ├──styles.css
-              │      │         └──script.js
-              │      │
-              │      ├──  products/ 
-              │      │         ├──index.html
-              │      │         ├──styles.css
-              │      │         └──script.js     
-              │      │
-              │      └──  users/         
-              │               ├──index.html
-              │               ├──styles.css
-              │               └──script.js 
-              ├── allproduct/ 
-              │         ├──index.html/
-              │         ├──styles.css
-              │         └──script.js
-              │
-              ├── cart/
-              │        ├──index.html
-              │        ├──styles.css
-              │        └──script.js
-              │
-              ├── checkout/
-              │         ├──index.html
-              │         ├──styles.css
-              │         └──script.js
-              │                      
-              ├── login/
-              │         ├──index.html
-              │         ├──styles.css
-              │         └──script.js
-              │                     
-              ├── orders/
-              │         ├──index.html
-              │         ├──styles.css
-              │         └──script.js
-              │                       
-              ├── productDescription/
-              │         ├──index.html
-              │         ├──styles.css
-              │              └──script.js
-              │                      
-              ├── signup/
-              │       ├──index.html
-              │       ├──styles.css
-              │       └──script.js
-              │                     
-              └── wishlist/
-                        ├──index.html
-                        ├──styles.css
-                        └──script.js
-
-
+# Deployed Link
+- https://modesensfashion.netlify.app/
+- 
 # Features 
 - Sign-up and sigin user.
 - Admin Section
@@ -172,8 +92,85 @@ The ModeSens website clone aims to replicate the key functionalities and user ex
 - Order Tracking: Provides tracking information for shipped orders.
 - ![alt text](./Readme%20assets/orderspage.png)
 
-
-
-
-
-
+# Project Directory Structure
+```plaintext
+Freedom-Frameworks-025-/
+  └── Modesons/
+      ├── index.html         
+      ├── style.css
+      ├── index.js        
+      ├── slider.css    
+      ├── images/
+      │   ├── carousal1/
+      │   │        └── images related to carousal1
+      │   │
+      │   ├── carousel2/
+      │   │          └── images related to carousal2
+      │   └── logo / 
+      │               └── all logos
+      │       
+      └──pages/
+          ├── AdminalPages/ 
+          │      ├──  addproducts/   
+          │      │         ├──index.html
+          │      │         ├──styles.css
+          │      │         └──script.js   
+          │      │
+          │      ├──  dashboard/    
+          │      │         ├──index.html
+          │      │         ├──styles.css
+          │      │         └──script.js
+          │      │
+          │      ├──  manageproducts/     
+          │      │         ├──index.html
+          │      │         ├──styles.css
+          │      │         └──script.js
+          │      │
+          │      ├──  products/ 
+          │      │         ├──index.html
+          │      │         ├──styles.css
+          │      │         └──script.js     
+          │      │
+          │      └──  users/         
+          │               ├──index.html
+          │               ├──styles.css
+          │               └──script.js 
+          ├── allproduct/ 
+          │         ├──index.html/
+          │         ├──styles.css
+          │         └──script.js
+          │
+          ├── cart/
+          │        ├──index.html
+          │        ├──styles.css
+          │        └──script.js
+          │
+          ├── checkout/
+          │         ├──index.html
+          │         ├──styles.css
+          │         └──script.js
+          │                      
+          ├── login/
+          │         ├──index.html
+          │         ├──styles.css
+          │         └──script.js
+          │                     
+          ├── orders/
+          │         ├──index.html
+          │         ├──styles.css
+          │         └──script.js
+          │                       
+          ├── productDescription/
+          │         ├──index.html
+          │         ├──styles.css
+          │              └──script.js
+          │                      
+          ├── signup/
+          │       ├──index.html
+          │       ├──styles.css
+          │       └──script.js
+          │                     
+          └── wishlist/
+                    ├──index.html
+                    ├──styles.css
+                    └──script.js
